@@ -31,3 +31,8 @@ source points to `java:jboss/datasources/PostgreSQLDS`:
     <jta-data-source>java:jboss/datasources/PostgreSQLDS</jta-data-source>
 
 Commit this change, and push.
+
+Oracle as a backend
+-------------------
+
+followed instructions listed here: https://blog.openshift.com/conntecting-to-an-external-oracle-database/
